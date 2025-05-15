@@ -65,7 +65,7 @@
 ## ⚡ Chaos Visualization
 
 <p align="center">
-  <img src="https://github.com/M3mC0rrupt/M3mC0rrupt/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
 
 <p align="center">
