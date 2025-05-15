@@ -65,7 +65,7 @@
 ## ⚡ Chaos Visualization
 
 <p align="center">
-  <img src="https://github-readme-contribution-snake.vercel.app/snake?username=M3mC0rrupt&color_snake=#ff00ff&color_dots=#ff0000,#00ff00,#0000ff,#ff00ff,#ffff00&theme=dark" alt="Contribution Snake">
+  <img src="https://github.com/M3mC0rrupt/M3mC0rrupt/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
 
 <p align="center">
