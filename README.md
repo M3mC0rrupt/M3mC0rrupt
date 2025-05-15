@@ -17,21 +17,32 @@
 
 ## 📊 Cyber Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M3mC0rrupt&show_icons=true&theme=cyberpunk&hide=prs,issues&count_private=true&border_radius=10" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M3mC0rrupt&theme=cyberpunk&hide_border=true&border_radius=10" alt="GitHub Streak">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3mC0rrupt&layout=compact&theme=cyberpunk&hide=html,css&border_radius=10" alt="Top Languages">
-  <img src="https://github-profile-trophy.vercel.app/?username=M3mC0rrupt&theme=cyberpunk&no-frame=true&margin-w=15&column=7" alt="Trophies">
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=M3mC0rrupt&show_icons=true&theme=cyberpunk&hide=prs,issues&count_private=true&border_radius=10" alt="GitHub Stats" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=M3mC0rrupt&theme=cyberpunk&hide_border=true&border_radius=10" alt="GitHub Streak" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3mC0rrupt&layout=compact&theme=cyberpunk&hide=html,css&border_radius=10" alt="Top Languages" height="130"/>
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=M3mC0rrupt&theme=cyberpunk&no-frame=true&margin-w=15&column=7" alt="Trophies" height="130"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/M3mC0rrupt?label=Total%20Stars&style=social&color=neon" alt="Total Stars">
-  <img src="https://img.shields.io/github/followers/M3mC0rrupt?label=Followers&style=social&color=purple" alt="Followers">
-  <img src="https://komarev.com/ghpvc/?username=M3mC0rrupt&color=ff00ff&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
+<img src="https://img.shields.io/github/stars/M3mC0rrupt?label=Total%20Stars&style=social&color=neon" alt="Total Stars" style="margin-right: 10px;">
+<img src="https://img.shields.io/github/followers/M3mC0rrupt?label=Followers&style=social&color=purple" alt="Followers" style="margin-right: 10px;">
+<img src="https://komarev.com/ghpvc/?username=M3mC0rrupt&color=ff00ff&style=flat-square&label=Profile+Views" alt="Profile Views">
+
+</div>
 
 ---
 
@@ -47,6 +58,43 @@
 - **Tools**: GDB, IDA Pro, Wireshark, Metasploit, Ghidra, Radare2  
 - **Domains**: Reverse engineering, exploit development, kernel hardening, memory corruption  
 - **Mindset**: Break it, understand it, secure it—repeat.
+
+---
+
+## 🗺️ Expertise Mindmap
+
+<details>
+<summary>Click to expand expertise</summary>
+
+```mermaid
+mindmap
+  root((Core Skills))
+    Security
+      Reverse Engineering
+      Exploit Development
+      Kernel Hardening
+      Memory Corruption
+      Malware Analysis
+      Fuzzing
+      OPSEC
+    Tools
+      GDB
+      IDA Pro
+      Wireshark
+      Metasploit
+      Ghidra
+      Radare2
+    Languages
+      C
+      Python
+      Rust
+    Domains
+      CTF Domination
+      Retro Hardware
+      Obfuscation
+      Automation
+```
+</details>
 
 ---
 
