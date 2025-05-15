@@ -39,12 +39,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c&theme=light" alt="C" width="50" height="50"/> 
-  <img src="https://skillicons.dev/icons?i=asm&theme=light" alt="Assembly" width="50" height="50"/> 
   <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" width="50" height="50"/> 
   <img src="https://skillicons.dev/icons?i=rust&theme=light" alt="Rust" width="50" height="50"/>
 </p>
 
-- **Languages**: C, Assembly, Python, Rust  
+- **Languages**: C, Python, Rust  
 - **Tools**: GDB, IDA Pro, Wireshark, Metasploit, Ghidra, Radare2  
 - **Domains**: Reverse engineering, exploit development, kernel hardening, memory corruption  
 - **Mindset**: Break it, understand it, secure it—repeat.
