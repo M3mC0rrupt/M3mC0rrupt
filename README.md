@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c&theme=light" alt="C" width="50" height="50"/> 
-  <img src="https://skillicons.dev/icons?i=assemblyscript&theme=light" alt="Assembly" width="50" height="50"/> 
+  <img src="https://skillicons.dev/icons?i=asm&theme=light" alt="Assembly" width="50" height="50"/> 
   <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" width="50" height="50"/> 
   <img src="https://skillicons.dev/icons?i=rust&theme=light" alt="Rust" width="50" height="50"/>
 </p>
